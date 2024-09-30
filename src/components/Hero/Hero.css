@@ -1,0 +1,39 @@
+/* Hero Section */
+.hero {
+    height: 100vh;
+    background: linear-gradient(135deg, #373B44 0%, #4286f4 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    animation: fadeIn 2s ease-in-out;
+}
+
+.hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    animation: slideInLeft 1.5s ease-in-out;
+}
+
+.hero-content p {
+    font-size: 1.25rem;
+    margin-bottom: 30px;
+    animation: slideInRight 1.5s ease-in-out;
+}
+
+.hero-content button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #ffffff;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    animation: fadeInUp 2s ease-in-out;
+    border-radius: 15px;
+}
+
+.hero-content button:hover {
+    background-color: #06F3DD;
+}

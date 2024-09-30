@@ -1,0 +1,39 @@
+/* Navigation Bar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(135deg, #232526 0%, #414345 100%);
+    padding: 25px;
+    animation: fadeInDown 1s ease-in-out;
+}
+
+nav .logo a {
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #06F3DD;
+    border-radius: 4px;
+}

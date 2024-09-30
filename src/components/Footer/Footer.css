@@ -1,0 +1,13 @@
+/* Footer */
+.copyright {
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(135deg, #232526 0%, #414345 100%);
+    font-weight: 300;
+    padding: 1px;
+}
+
+.copyright span {
+    color: #ff004f;
+}

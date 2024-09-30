@@ -1,0 +1,47 @@
+/* About Section */
+.about {
+    height: 100vh;
+    background: linear-gradient(135deg, #373B44 0%, #4286f4 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: fadeIn 2s ease-in-out;
+}
+
+.about-content {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+    padding-left: 150px;
+    animation: fadeInUp 2s ease-in-out;
+}
+
+/* Heading inside About Section */
+.about-content h2 {
+    font-size: 3rem;
+    margin: 0;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.5); 
+    border-radius: 8px;
+}
+
+/* Text Content */
+.about-content p {
+    font-size: 2rem;
+    line-height: 1.6;
+    background: rgba(0, 0, 0, 0.5); 
+    padding-left: 1000px;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+    max-width: 90%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
