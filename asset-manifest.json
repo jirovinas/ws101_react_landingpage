@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage/static/css/main.c9a4ed94.css",
+    "main.js": "/ws101_react_landingpage/static/js/main.d602e81b.js",
+    "static/media/economic-growth.jpg": "/ws101_react_landingpage/static/media/economic-growth.40d62dc3f66ebf186fe3.jpg",
+    "static/media/convenience.jpg": "/ws101_react_landingpage/static/media/convenience.9fdd0ecf576bbce4bcc0.jpg",
+    "static/media/education.jpg": "/ws101_react_landingpage/static/media/education.5d543b002cdcc945c99a.jpg",
+    "static/media/digital-presence.jpg": "/ws101_react_landingpage/static/media/digital-presence.c8ea74d7f03111f07ba6.jpg",
+    "static/media/innovation.jpg": "/ws101_react_landingpage/static/media/innovation.0da340f6145085b66ff3.jpg",
+    "static/media/security.jpg": "/ws101_react_landingpage/static/media/security.68acc29e56d110472321.jpg",
+    "index.html": "/ws101_react_landingpage/index.html",
+    "main.c9a4ed94.css.map": "/ws101_react_landingpage/static/css/main.c9a4ed94.css.map",
+    "main.d602e81b.js.map": "/ws101_react_landingpage/static/js/main.d602e81b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9a4ed94.css",
+    "static/js/main.d602e81b.js"
+  ]
+}
